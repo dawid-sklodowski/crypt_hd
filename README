@@ -1,0 +1,4 @@
+
+Script that mounts encrypted partition in Linux. It is hardcoded to mount /dev/sda6 in /crypt_hd.
+
+Usage: crypt_hd.sh [ start | stop ]
